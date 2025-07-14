@@ -6,7 +6,7 @@ Bem-vindo ao repositório do **Jogo do número secreto**, um exemplo prático de
 ## 📂 Estrutura de Arquivos
 
 ```bash
-3386-git-github-projeto_inicial/
+JogoDoNúmeroSecreto/
 ├── index.html          # Página principal do projeto
 ├── style.css           # Estilo e layout
 ├── app.js              # Funcionalidades JavaScript
